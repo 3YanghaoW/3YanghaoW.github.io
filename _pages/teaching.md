@@ -7,10 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 This page archives my teaching experiences, including any materials used in those courses.
 
 ### Peking University
