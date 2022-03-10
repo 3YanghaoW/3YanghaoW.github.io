@@ -16,7 +16,7 @@ Education
 
 Research experience
 ======
-* from 2018.9 to 2021.6: Undergraduate research
+* From 2018.9 to 2021.6: Undergraduate research
   * Peking University
   * Research: Neuromorphic computing based on memristors
   * Supervisor: Professor Yuchao Yang
