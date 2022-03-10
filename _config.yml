@@ -11,9 +11,9 @@ title                    : "Yanghao Wang"
 title_separator          : "-"
 name                     : &name "Yanghao Wang"
 description              : &description "Graduate student at Peking University"
-url                      : https://wangyanghao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://3YanghaoW.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "3YanghaoW/wangyanghao.github.io"
+repository               : "3YanghaoW/3YanghaoW.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
