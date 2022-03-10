@@ -23,4 +23,10 @@ Research experience
 * Summer 2020: Visiting Students
   * Westlake University
   * Research: Micron 3D printing for memristors
-  * Supervisor: Professor Nanjia Zhou
+  * Supervisor: Professor Nanjia Zhou..
+
+Contact
+======
+* E-mail: wangyanghao@pku.edu.cn
+* WeChat: w979409656
+
