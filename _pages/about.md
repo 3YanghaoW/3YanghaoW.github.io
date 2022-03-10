@@ -15,7 +15,7 @@ I am broadly interested in research that utilizes memristive devices' dynamics f
 + Use Mott devices based on VO2 for constructing complex systems with its intrinsic physics dynamics, like oscillation, local activity and chaos.
 + Use computational neuroscience theory to simulate the advanced brain-inspired algorithms based on devices' characteristics and explore the neuromorphic computing paradigms with novel hardwares.
 
-My past research is documented under the [Publications](https://wangyanghao.github.io/publications) tab.
+My past research is documented under the [Publications](https://3yanghaow.github.io/publications) tab.
 
 Please feel free to contact me through email if you are interested in collaborating or simply having a chat about computing!
 
