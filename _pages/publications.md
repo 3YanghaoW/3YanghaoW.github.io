@@ -28,12 +28,12 @@ A more up-to-date list could be found on [Google Scholar](https://scholar.google
 2. K. Yang, Q. Duan, <u>Y. Wang</u>, T. Zhang, R. Huang and Y. Yang, *Transiently chaotic simulated annealing based on intrinsic nonlinearity of memristors for efficient solution of optimization problems*, **Science Advances** 6(33), eaba9901. [Main text](https://3yanghaow.github.io/files/sciadv.aba9901.pdf).
 3. Q. Duan, Z. Jing, X. Zou,  <u>Y. Wang</u>, K. Yang, T. Zhang, S. Wu, R. Huang and Y. Yang, *Spiking neurons with spatiotemporal dynamics and gain modulation for monolithically integrated memristive neural networks*, **Nature Communications** 11(1), 1-13. [Main text](https://3yanghaow.github.io/files/s41467-020-17215-3.pdf).
 
-## Review
+## Reviews
 
 ### 2019
 1. <u>Y. Wang</u>, C. Liu, R. Huang and Y. Yang, *Progresses and outlook in neuromorphic devices* (in Chinese), **Chinese Science Bulletin** 65(10), 904-915. [Main text](https://3yanghaow.github.io/files/TB-2019-0739.pdf).
 
-## Commets and Perspectives
+## Comments and Perspectives
 
 ### 2021
 1. <u>Y. Wang</u>, Y. Yang, Y. Hao and R. Huang, *Embracing the era of neuromorphic computing*, **Journal of Semiconductors** 42(1), 010301. [Main text](https://3yanghaow.github.io/files/Comments-202101.pdf).
