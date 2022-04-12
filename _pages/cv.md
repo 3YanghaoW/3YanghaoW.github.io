@@ -28,5 +28,4 @@ Research experience
 Contact
 ======
 * E-mail: wangyanghao@pku.edu.cn
-* WeChat: w979409656
 
